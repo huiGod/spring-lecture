@@ -3,8 +3,12 @@ package com.huigod.spring.com.huigod.thinkjava.example13;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
+/**
+ * @Author TengH
+ * @Date 2018/7/30 10:57
+ * @Description
+ **/
 public class TestRegularExpression {
-
   public static void main(String[] args) {
     if (args.length < 2) {
       System.out.println("Usage:\njava TestRegularExpression characterSequence regularExpression");
