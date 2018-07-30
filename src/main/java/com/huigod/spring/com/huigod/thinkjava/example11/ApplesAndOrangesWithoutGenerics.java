@@ -1,4 +1,4 @@
-package com.huigod.spring.com.huigod.thinkjava.example11.test1;
+package com.huigod.spring.com.huigod.thinkjava.example11;
 
 import java.util.ArrayList;
 
