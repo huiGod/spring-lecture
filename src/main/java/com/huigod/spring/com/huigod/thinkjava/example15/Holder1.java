@@ -1,4 +1,6 @@
-package com.huigod.spring.com.huigod.thinkjava.example14;
+package com.huigod.spring.com.huigod.thinkjava.example15;
+
+import com.huigod.spring.com.huigod.thinkjava.example14.Automobile;
 
 /**
  * @Author TengH
