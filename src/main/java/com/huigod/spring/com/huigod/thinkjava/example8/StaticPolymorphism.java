@@ -12,6 +12,13 @@ public class StaticPolymorphism {
 
 class StaticSuper {
 
+  private static int a = 1;
+  private int b = 2;
+
+  public StaticSuper() {
+    System.out.println("hello");
+  }
+
   public static String staticGet() {
     return "Base staticGet()";
   }
@@ -23,6 +30,8 @@ class StaticSuper {
 }
 
 class StaticSub extends StaticSuper {
+
+  private static int a = 3;
 
   public static String staticGet() {
     return "Derived staticGet()";
